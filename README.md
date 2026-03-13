@@ -90,7 +90,7 @@ python run_demo.py
 **Nguyen Tuan Hao**
 - **Role:** Software Engineer / AI Researcher
 - **University:** Ho Chi Minh City University of Natural Resources and Environment (HCMUNRE)
-- **Email:** tuanhao050403@gmail.com
-- **LinkedIn:** www.linkedin.com/in/tuấn-hào-a34b9b218
+- **Email:** [tuanhao050403@gmail.com](mailto:tuanhao050403@gmail.com)
+- **LinkedIn:** [tuấn-hào-a34b9b218](https://www.linkedin.com/in/tuấn-hào-a34b9b218)
 
 If you find this repository helpful, please consider leaving a ⭐!
